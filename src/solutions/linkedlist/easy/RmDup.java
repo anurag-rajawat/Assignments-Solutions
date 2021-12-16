@@ -1,4 +1,4 @@
-package anurag.solutions.linkedlist.easy;
+package solutions.linkedlist.easy;
 
 
 // Problem no 9: https://leetcode.com/problems/remove-duplicates-from-sorted-list/

@@ -1,4 +1,4 @@
-package anurag.solutions.linkedlist.easy;
+package solutions.linkedlist.easy;
 
 // Problem no 3: https://leetcode.com/problems/middle-of-the-linked-list/
 

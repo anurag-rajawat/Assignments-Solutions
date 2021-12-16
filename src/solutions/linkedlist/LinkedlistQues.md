@@ -6,16 +6,15 @@
 - [x] `3` [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) `leetcode`
 - [x] `4` [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) `leetcode`
 - [x] `5` [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) `leetcode`
-- [ ] `6` [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) `leetcode` `Snapdeal`
+- [x] `6` [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) `leetcode` `Snapdeal`
 - [ ] `7` [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) `leetcode`
 -[x] `8` [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) `leetcode` `Samsung`
 -[x] `9` [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) `leetcode`
--[ ] `10`[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) `leetcode`
 
 ## Medium
 - [ ] `1` [Design Twitter](https://leetcode.com/problems/design-twitter/) `leetcode`
 - [ ] `2` [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) `leetcode`
-- [ ] `3` [Reorder List](https://leetcode.com/problems/reorder-list/) `leetcode`
+- [x] `3` [Reorder List](https://leetcode.com/problems/reorder-list/) `leetcode`
 - [ ] `4` [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) `leetcode` `HSBC`
 - [ ] `5` [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) `leetcode`
 - [ ] `6` [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) `leetcode` `TCS`

@@ -1,4 +1,4 @@
-package anurag.solutions.linkedlist.easy;
+package solutions.linkedlist.easy;
 
 // Problem no 2: https://leetcode.com/problems/reverse-linked-list/
 

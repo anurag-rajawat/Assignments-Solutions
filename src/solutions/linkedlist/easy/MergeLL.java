@@ -1,4 +1,4 @@
-package anurag.solutions.linkedlist.easy;
+package solutions.linkedlist.easy;
 
 // Problem no 4: https://leetcode.com/problems/merge-two-sorted-lists/
 

@@ -13,15 +13,15 @@
 
 ## Medium
 - [ ] `1` [Design Twitter](https://leetcode.com/problems/design-twitter/) `leetcode`
-- [ ] `2` [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) `leetcode`
+- [x] `2` [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) `leetcode`
 - [x] `3` [Reorder List](https://leetcode.com/problems/reorder-list/) `leetcode`
-- [ ] `4` [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) `leetcode` `HSBC`
+- [x] `4` [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) `leetcode` `HSBC`
 - [ ] `5` [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) `leetcode`
 - [ ] `6` [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) `leetcode` `TCS`
 - [ ] `7` [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) `leetcode`
-- [ ] `8` [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) `leetcode`
+- [x] `8` [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) `leetcode`
 - [ ] `9` [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) `leetcode` `Amazon`
-- [ ] `10`[Rotate List](https://leetcode.com/problems/rotate-list/) `leetcode` `Microsoft`
+- [x] `10`[Rotate List](https://leetcode.com/problems/rotate-list/) `leetcode` `Microsoft`
 - [ ] `11` [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) `leetcode`
 - [ ] `12` [LRU Cache](https://leetcode.com/problems/lru-cache/) `leetcode`
 - [ ] `13` [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) `leetcode` `Amex`

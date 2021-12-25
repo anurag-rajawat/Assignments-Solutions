@@ -16,8 +16,8 @@
 - [x] `2` [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) `leetcode`
 - [x] `3` [Reorder List](https://leetcode.com/problems/reorder-list/) `leetcode`
 - [x] `4` [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) `leetcode` `HSBC`
-- [ ] `5` [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) `leetcode`
-- [ ] `6` [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) `leetcode` `TCS`
+- [x] `5` [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) `leetcode`
+- [x] `6` [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) `leetcode` `TCS`
 - [ ] `7` [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) `leetcode`
 - [x] `8` [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) `leetcode`
 - [ ] `9` [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) `leetcode` `Amazon`

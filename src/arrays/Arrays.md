@@ -32,8 +32,8 @@
 -[ ] `27` [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 
 ### Medium
--[ ] `1` [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
--[ ] `2`[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
+-[x] `1` [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+-[x] `2`[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
 -[ ] `3` [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)
 -[x] `4` [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 -[x] `5` [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
@@ -45,5 +45,5 @@
 
 ### Hard
 -[ ] `1` [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/)
--[ ] `2` [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
--[ ] `3`[Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/)
+-[x] `2` [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
+-[ ] `3` [Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/)

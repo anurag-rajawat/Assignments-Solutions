@@ -1,5 +1,8 @@
 # Problems
 
+# Total Problems: 32
+# Solved: 15
+
 ## Easy
 - [x] `1` [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) `leetcode`
 - [x] `2` [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) `leetcode`

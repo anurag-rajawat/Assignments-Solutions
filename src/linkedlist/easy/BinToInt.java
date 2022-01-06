@@ -1,4 +1,4 @@
-package solutions.linkedlist.easy;
+package linkedlist.easy;
 
 // Problem no 1: https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/
 

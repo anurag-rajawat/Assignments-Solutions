@@ -1,4 +1,4 @@
-package solutions.arrays.easy;
+package arrays.easy;
 
 // Problem 22 - https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/
 public class SumToZero {

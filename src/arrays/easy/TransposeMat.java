@@ -1,4 +1,4 @@
-package solutions.arrays.easy;
+package arrays.easy;
 
 // Problem 17 - https://leetcode.com/problems/transpose-matrix/
 

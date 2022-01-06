@@ -1,4 +1,4 @@
-package solutions.arrays.easy;
+package arrays.easy;
 
 //Problem 15 - https://leetcode.com/problems/matrix-diagonal-sum/
 public class DiagonalSum {

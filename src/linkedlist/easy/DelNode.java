@@ -1,4 +1,4 @@
-package solutions.linkedlist.easy;
+package linkedlist.easy;
 
 // Problem no 5: https://leetcode.com/problems/delete-node-in-a-linked-list/
 public class DelNode {

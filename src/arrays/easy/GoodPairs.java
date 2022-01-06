@@ -1,4 +1,4 @@
-package solutions.arrays.easy;
+package arrays.easy;
 
 // Problem 7: https://leetcode.com/problems/number-of-good-pairs/
 

@@ -1,4 +1,4 @@
-package solutions.arrays.easy;
+package arrays.easy;
 
 // Problem 2: https://leetcode.com/problems/concatenation-of-array/
 

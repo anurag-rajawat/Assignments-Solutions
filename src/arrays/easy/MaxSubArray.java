@@ -1,4 +1,4 @@
-package solutions.arrays.easy;
+package arrays.easy;
 
 //Problem 24 - https://leetcode.com/problems/maximum-subarray/
 public class MaxSubArray {

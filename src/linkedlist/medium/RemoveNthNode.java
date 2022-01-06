@@ -1,4 +1,4 @@
-package solutions.linkedlist.medium;
+package linkedlist.medium;
 
 // Problem 4 - https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 public class RemoveNthNode {

@@ -1,4 +1,4 @@
-package solutions.arrays.easy;
+package arrays.easy;
 
 import java.util.List;
 

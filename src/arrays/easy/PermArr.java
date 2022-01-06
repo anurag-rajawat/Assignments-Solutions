@@ -1,4 +1,4 @@
-package solutions.arrays.easy;
+package arrays.easy;
 
 // Problem no 1: https://leetcode.com/problems/build-array-from-permutation/
 

@@ -1,4 +1,4 @@
-package solutions.linkedlist.medium;
+package linkedlist.medium;
 
 public class LLCycle2 {
 

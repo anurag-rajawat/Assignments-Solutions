@@ -1,4 +1,4 @@
-package solutions.linkedlist.medium;
+package linkedlist.medium;
 
 //Problem 5 - https://leetcode.com/problems/swapping-nodes-in-a-linked-list/
 

@@ -1,4 +1,4 @@
-package solutions.linkedlist.medium;
+package linkedlist.medium;
 
 // Problem 3 - https://leetcode.com/problems/reorder-list/
 public class ReorderList {

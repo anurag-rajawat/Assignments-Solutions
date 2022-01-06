@@ -1,4 +1,4 @@
-package solutions.linkedlist.medium;
+package linkedlist.medium;
 
 // Problem 6 - https://leetcode.com/problems/add-two-numbers/
 public class AddTwoNums {

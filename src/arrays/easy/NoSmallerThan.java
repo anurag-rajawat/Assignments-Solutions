@@ -1,4 +1,4 @@
-package solutions.arrays.easy;
+package arrays.easy;
 
 // Problem 8: https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
 

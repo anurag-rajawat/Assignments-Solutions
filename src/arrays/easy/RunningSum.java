@@ -1,4 +1,4 @@
-package solutions.arrays.easy;
+package arrays.easy;
 
 // Problem 3: https://leetcode.com/problems/running-sum-of-1d-array/
 

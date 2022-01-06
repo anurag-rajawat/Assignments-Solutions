@@ -1,4 +1,4 @@
-package solutions.linkedlist.medium;
+package linkedlist.medium;
 
 //// Problem 10 - https://leetcode.com/problems/rotate-list/
 public class RotateList {

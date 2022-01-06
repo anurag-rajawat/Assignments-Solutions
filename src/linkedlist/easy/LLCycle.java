@@ -1,4 +1,4 @@
-package solutions.linkedlist.easy;
+package linkedlist.easy;
 
 // Problem no 8: https://leetcode.com/problems/linked-list-cycle/
 

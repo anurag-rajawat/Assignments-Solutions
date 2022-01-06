@@ -1,4 +1,4 @@
-package solutions.arrays.easy;
+package arrays.easy;
 
 //  Problem 16: https://leetcode.com/problems/find-numbers-with-even-number-of-digits/-
 public class NoEvenDigits {

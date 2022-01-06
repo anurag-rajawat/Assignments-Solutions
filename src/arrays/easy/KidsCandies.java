@@ -1,4 +1,4 @@
-package solutions.arrays.easy;
+package arrays.easy;
 
 // Problem 6: https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
 

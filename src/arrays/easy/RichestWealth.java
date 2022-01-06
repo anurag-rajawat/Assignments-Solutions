@@ -1,4 +1,4 @@
-package solutions.arrays.easy;
+package arrays.easy;
 
 // Problem 4: https://leetcode.com/problems/richest-customer-wealth/
 

@@ -1,4 +1,4 @@
-package solutions.linkedlist.easy;
+package linkedlist.easy;
 
 // Problem no 6 - https://leetcode.com/problems/palindrome-linked-list/
 

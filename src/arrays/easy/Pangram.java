@@ -1,4 +1,4 @@
-package solutions.arrays.easy;
+package arrays.easy;
 
 // Problem 10 - https://leetcode.com/problems/check-if-the-sentence-is-pangram/
 public class Pangram {

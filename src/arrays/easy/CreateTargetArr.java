@@ -1,4 +1,4 @@
-package solutions.arrays.easy;
+package arrays.easy;
 
 // Problem 9 - https://leetcode.com/problems/create-target-array-in-the-given-order/
 

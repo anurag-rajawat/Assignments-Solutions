@@ -11,10 +11,9 @@
 
 # Total Questions: 43
 
-# Solved
+# Solved: 29
 
 ## Easy
-
 -[x] `1`  [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 -[x] `2`  [Majority Element](https://leetcode.com/problems/majority-element/)
 -[x] `3`  [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
@@ -53,14 +52,14 @@
 -[ ] `3` [4Sum](https://leetcode.com/problems/4sum/)
 -[ ] `4` [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 -[ ] `5` [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
--[ ] `6` [Sort Colors](https://leetcode.com/problems/sort-colors/)
+-[x] `6` [Sort Colors](https://leetcode.com/problems/sort-colors/)
 -[ ] `7` [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)
--[ ] `8` [Sort List](https://leetcode.com/problems/sort-list/)
--[ ] `9` [Largest Number](https://leetcode.com/problems/largest-number/)
--[ ] `10` [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
--[ ] `11` [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
--[ ] `12` [Find all Duplicates in an array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
+-[x] `8` [Sort List](https://leetcode.com/problems/sort-list/)
+-[x] `9` [Largest Number](https://leetcode.com/problems/largest-number/)
+-[x] `10` [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+-[x] `11` [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+-[x] `12` [Find all Duplicates in an array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
 
 ## Hard
 
--[ ] `1` [First missing Positive](https://leetcode.com/problems/first-missing-positive/)
+-[x] `1` [First missing Positive](https://leetcode.com/problems/first-missing-positive/)

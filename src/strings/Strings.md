@@ -43,7 +43,7 @@
 -[ ] `6` [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/)
 -[ ] `7` [Maximum Number of Removable Characters](https://leetcode.com/problems/maximum-number-of-removable-characters/)
 -[ ] `8` [Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/)
--[ ] `9` [Multiply Strings](https://leetcode.com/problems/multiply-strings/)
+-[x] `9` [Multiply Strings](https://leetcode.com/problems/multiply-strings/)
 -[ ] `10` [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)
 -[ ] `11` [Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/)
 -[ ] `12` [Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s/)
@@ -51,7 +51,7 @@
 -[ ] `14` [Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/)
 -[ ] `15` [Shifting Letters](https://leetcode.com/problems/shifting-letters/)
 -[ ] `16` [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/)
--[ ] `17` [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/)
+-[x] `17` [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/)
 -[ ] `18` [Camelcase Matching](https://leetcode.com/problems/camelcase-matching/)
 -[ ] `19` [Print Words Vertically](https://leetcode.com/problems/print-words-vertically/)
 

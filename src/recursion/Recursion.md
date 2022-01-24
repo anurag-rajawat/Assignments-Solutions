@@ -44,7 +44,7 @@
 -[ ] `1`  [Combination Sum](https://leetcode.com/problems/combination-sum/) `leetcode`
 -[ ] `2`  [Word Search](https://leetcode.com/problems/word-search/) `leetcode`
 -[ ] `3`  [Target sum](https://leetcode.com/problems/target-sum/) `leetcode`
--[ ] `4`  [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) `leetcode`
+-[x] `4`  [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) `leetcode`
 -[ ] `5`  [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) `leetcode`
 -[ ] `6`  [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) `leetcode`
 -[ ] `7`  [N Digit numbers with digits in increasing order](https://practice.geeksforgeeks.org/problems/n-digit-numbers-with-digits-in-increasing-order5903/1/) `GFG`

@@ -48,7 +48,7 @@
 -[ ] `5`  [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) `leetcode`
 -[ ] `6`  [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) `leetcode`
 -[ ] `7`  [N Digit numbers with digits in increasing order](https://practice.geeksforgeeks.org/problems/n-digit-numbers-with-digits-in-increasing-order5903/1/) `GFG`
--[ ] `8`  [Pow(x, n)](https://leetcode.com/problems/powx-n/) `leetcode`
+-[x] `8`  [Pow(x, n)](https://leetcode.com/problems/powx-n/) `leetcode`
 -[ ] `9`  [Minimum Non-Zero Product of the Array Elements](https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements/) `leetcode`
 -[ ] `10`  [Handshakes](https://practice.geeksforgeeks.org/problems/handshakes1303/1/) `GFG`
 -[ ] `11`  [HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=recursion&filters%5Bdifficulty%5D%5B%5D=medium)
@@ -57,11 +57,11 @@
 -[ ] `14`  [decode string](https://leetcode.com/problems/decode-string/) `leetcode`
 -[ ] `15`  [find the winner of the circular game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) `leetcode`
 -[ ] `16`  [Different ways to add parantheses in the expression](https://leetcode.com/problems/different-ways-to-add-parentheses/) `leetcode`
--[ ] `17`  [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) `leetcode`
+-[x] `17`  [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) `leetcode`
 -[ ] `18`  [Predict the winner.](https://leetcode.com/problems/predict-the-winner/) `leetcode`
 -[ ] `19`  [Gray code](https://practice.geeksforgeeks.org/problems/gray-code-1611215248/1/) `GFG` `Google`
 -[ ] `20`  [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) `leetcode`
--[ ] `21`  [combination Sum III](https://leetcode.com/problems/combination-sum-iii/) `leetcode`
+-[ ] `21`  [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) `leetcode`
 -[ ] `22`  [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) `leetcode`
 -[ ] `23`  [Letter tile possibilities](https://leetcode.com/problems/letter-tile-possibilities/) `leetcode`
 -[ ] `24`  [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) `leetcode`
@@ -74,7 +74,7 @@
 -[ ] `31`  [Longest Possible Route in a Matrix with Hurdles](https://www.geeksforgeeks.org/longest-possible-route-in-a-matrix-with-hurdles/) `GFG`
 -[ ] `32`  [Tug of war](https://www.geeksforgeeks.org/tug-of-war/) `GFG` `Adobe`
 -[ ] `33`  [Rat in a maze](https://www.geeksforgeeks.org/rat-in-a-maze-backtracking-2/) `GFG`
--[ ] `34`  [Reorder List](https://leetcode.com/problems/reorder-list/) `leetcode`
+-[x] `34`  [Reorder List](https://leetcode.com/problems/reorder-list/) `leetcode`
 
 ## Hard
 -[ ] `1`  [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) `leetcode`
@@ -84,7 +84,7 @@
 -[ ] `5`  [Basic Calculator](https://leetcode.com/problems/basic-calculator/) `leetcode`
 -[ ] `6`  [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) `leetcode`
 -[ ] `7`  [Maximize Number of Nice Divisors](https://leetcode.com/problems/maximize-number-of-nice-divisors/) `leetcode`
--[ ] `8`  [N Queens](https://leetcode.com/problems/n-queens/) `leetcode`
+-[x] `8`  [N Queens](https://leetcode.com/problems/n-queens/) `leetcode`
 -[ ] `9`  [N Queens II](https://leetcode.com/problems/n-queens-ii/) `leetcode`
 -[ ] `10`  [Word break II](https://leetcode.com/problems/word-break-ii/) `leetcode` `Google`
 -[ ] `11`  [Unique paths III](https://leetcode.com/problems/unique-paths-iii/) `leetcode`

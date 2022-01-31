@@ -1,4 +1,4 @@
-package datastructures;
+package datastructures.queue;
 
 public class StaticQueueMain {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package datastructures;
+package datastructures.array;
 
 @SuppressWarnings("unchecked")
 public class DynamicArray<T> {
@@ -35,11 +35,12 @@ public class DynamicArray<T> {
     }
 
     /**
-     * Set a value at a particular index
+     * Set a value at a particular index, it doesn't allow adding null values
      * @param index at which value needs to be set
      * @param value the value which needs to be set
      */
     public void set(int index, T value) {
+        if (value == null) throw new IllegalArgumentException();
         if (index < 0 || index >= size()) throw new IndexOutOfBoundsException();
         a[index] = value;
     }
@@ -55,16 +56,27 @@ public class DynamicArray<T> {
         return a[index];
     }
 
+    /**
+     * Checks whether the element is present in the array or not, it doesn't allow null element
+     * @param element which needs to be checked whether it's present or not in the array
+     * @return index of that particular element
+     */
     public boolean contains(T element) {
+        if (element == null) throw new IllegalArgumentException();
         for (int i = 0; i < size(); i++) {
             if (a[i].equals(element)) return true;
         }
         return false;
     }
 
-    // Create array by doubling the size when it gets fulled.
+
+    /**
+     * Append the element at the last index of array, it doesn't allow adding null elements
+     * @param element which needs to be added in the array
+     */
     public void add(T element) {
-        if (length + 1 >= capacity) {
+        if (element == null) throw new IllegalArgumentException();
+            if (length + 1 >= capacity) {
             if (capacity == 0) capacity = 1;
             else {
                 capacity *= 2;

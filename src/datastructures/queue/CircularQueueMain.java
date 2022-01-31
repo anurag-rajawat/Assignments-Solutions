@@ -1,4 +1,6 @@
-package datastructures;
+package datastructures.queue;
+
+import datastructures.queue.CircularQueue;
 
 public class CircularQueueMain {
     public static void main(String[] args) {

@@ -1,16 +1,17 @@
-package datastructures;
+package datastructures.queue;
 
 import java.util.Iterator;
 import java.util.LinkedList;
 
-public class QueueLL<T> implements Iterable<T> {
+// Dynamic queue using doubly linked-list
+public class DynamicQueueDLL<T> implements Iterable<T> {
     private LinkedList<T> list = new LinkedList<>();
 
-    public QueueLL() {
+    public DynamicQueueDLL() {
     }
 
-    public QueueLL(T firstElement) {
-        if (firstElement == null) throw new RuntimeException("firstElement is null");
+    public DynamicQueueDLL(T firstElement) {
+        if (firstElement == null) throw new IllegalArgumentException();
         offer(firstElement);
     }
 
@@ -28,7 +29,7 @@ public class QueueLL<T> implements Iterable<T> {
      * @param item element which has to be appended.
      */
     public void offer(T item) {
-        if (item == null) throw new RuntimeException("Item is null");
+        if (item == null) throw new IllegalArgumentException();
         list.addLast(item);
     }
 

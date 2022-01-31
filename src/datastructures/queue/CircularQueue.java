@@ -1,16 +1,17 @@
-package datastructures;
+package datastructures.queue;
 
-public class StaticQueue {
+public class CircularQueue {
+    private static final int DEFAULT_SIZE = 10;
     private int[] a;
     private int size;
+    private int head = 0;
     private int end = 0;
-    private static final int DEFAULT_SIZE = 10;
 
-    public StaticQueue() {
+    public CircularQueue() {
         this(DEFAULT_SIZE);
     }
 
-    public StaticQueue(int initialCapacity) {
+    public CircularQueue(int initialCapacity) {
         this.a = new int[initialCapacity];
     }
 
@@ -29,35 +30,35 @@ public class StaticQueue {
     public boolean offer(int item) {
         if (isFull()) throw new RuntimeException("Queue is full");
         a[end++] = item;
+        end %= a.length;
         size++;
         return true;
     }
 
     public int poll() {
         if (isEmpty()) throw new RuntimeException("Empty Queue");
-        int data = a[0];
-        // Shifts the element to the left
-        for (int i = 1; i < end; i++) {
-            a[i - 1] = a[i];
-        }
+        int data = a[head++];
+        head %= a.length;
         size--;
         return data;
     }
 
-    public int peek(){
+    public int peek() {
         if (isEmpty()) throw new RuntimeException("Empty Queue");
-        return a[0];
+        return a[head];
     }
 
-    public String toString(){
-        if (size() == 0) return "[]";
-        int arrLen = size() - 1;
-        if (arrLen == -1) return "[]";
-        StringBuilder sb = new StringBuilder().append("[");
-        for (int i = 0; i < size(); i++) {
-            if (i == arrLen) return sb.append(a[i]).append("]").toString();
+    @Override
+    public String toString() {
+        if (isEmpty()) return "[]";
+        int i = head;
+        StringBuilder sb = new StringBuilder().append("START: ");
+        do {
             sb.append(a[i]).append(" <- ");
-        }
+            i++;
+            i %= a.length;
+        } while (i != end);
+        sb.append("END");
         return sb.toString();
     }
 }

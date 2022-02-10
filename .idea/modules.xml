@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Algorithms.iml" filepath="$PROJECT_DIR$/Algorithms/Algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/Assignments-Solutions.iml" filepath="$PROJECT_DIR$/Assignments-Solutions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bit-Manipulation/Bit-Manipulation.iml" filepath="$PROJECT_DIR$/Bit-Manipulation/Bit-Manipulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data-Structures/Data-Structures.iml" filepath="$PROJECT_DIR$/Data-Structures/Data-Structures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linked-List/Linked-List.iml" filepath="$PROJECT_DIR$/Linked-List/Linked-List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Math-Assignment/Math-Assignment.iml" filepath="$PROJECT_DIR$/Math-Assignment/Math-Assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pattern/Pattern.iml" filepath="$PROJECT_DIR$/Pattern/Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Searching/Searching.iml" filepath="$PROJECT_DIR$/Searching/Searching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting/Sorting.iml" filepath="$PROJECT_DIR$/Sorting/Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String-Assignment/String-Assignment.iml" filepath="$PROJECT_DIR$/String-Assignment/String-Assignment.iml" />
     </modules>
   </component>
 </project>

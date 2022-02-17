@@ -3,7 +3,7 @@
 ## Submit the following on your Leetcode profile itself.
 
 # Total Problems: 40
-# Solved: 27
+# Solved: 28
 
 ### Easy
 -[x] `1` [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)
@@ -32,7 +32,7 @@
 -[x] `24` [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 -[ ] `25` [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
 -[ ] `26` [Plus One](https://leetcode.com/problems/plus-one/)
--[ ] `27` [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+-[x] `27` [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 
 ### Medium
 -[x] `1` [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)

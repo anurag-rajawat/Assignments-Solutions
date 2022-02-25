@@ -1,10 +1,6 @@
 # LeetCode Solutions
 
-# 🔥DSA-Bootcamp-Java
-
-![DSA-Bootcamp-Java](https://socialify.git.ci/kunal-kushwaha/DSA-Bootcamp-Java/image?1&font=Inter&language=1&owner=1&pattern=Charlie%20Brown&theme=Dark)
-
-# **Bootcamp Link**
+# **Bootcamp**
 
 [![Bootcamp link](https://img.youtube.com/vi/wn49bJOYAZM/0.jpg)](https://youtu.be/wn49bJOYAZM?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
 

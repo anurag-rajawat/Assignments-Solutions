@@ -1,7 +1,5 @@
 package easy;
 
-import java.util.Arrays;
-
 // Problem 21 - https://leetcode.com/problems/two-sum/
 public class TwoSum {
     //  Now, I don't know about hashmap that's why I'm doing it using bruteforce approach

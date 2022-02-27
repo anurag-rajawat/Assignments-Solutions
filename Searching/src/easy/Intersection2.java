@@ -1,6 +1,5 @@
 package easy;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 
 // Problem 13: https://leetcode.com/problems/intersection-of-two-arrays-ii/

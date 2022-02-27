@@ -1,7 +1,6 @@
 package easy;
 
 import java.util.ArrayList;
-import java.util.Objects;
 
 // https://leetcode.com/problems/palindrome-linked-list/
 public class PalLL {

@@ -1,7 +1,5 @@
 package hard;
 
-import java.util.Arrays;
-
 // Problem 2 - https://leetcode.com/problems/first-missing-positive/
 public class FirstMissingPos {
     public static void main(String[] args) {

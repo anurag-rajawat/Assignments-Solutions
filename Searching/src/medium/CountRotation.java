@@ -1,7 +1,5 @@
 package medium;
 
-import java.util.Arrays;
-
 // GeeksForGeeks Problem
 // Given a rotated sorted array, you've to return how many times the array is rotated?
 public class CountRotation {

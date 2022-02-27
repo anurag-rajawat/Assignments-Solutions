@@ -10,8 +10,6 @@ package medium;
 
 //------------------------------------------------|||||||||||||||||||||||||||||||||||||||||||||||||------------------------------------------------
 
-import java.util.Scanner;
-
 public class SwapNodes {
 //  Definition for singly-linked list.
      class ListNode {

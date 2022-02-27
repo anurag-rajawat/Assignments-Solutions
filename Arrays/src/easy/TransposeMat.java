@@ -2,8 +2,6 @@ package easy;
 
 // Problem 17 - https://leetcode.com/problems/transpose-matrix/
 
-import java.util.Arrays;
-
 public class TransposeMat {
 
     public static void main(String[] args) {

@@ -2,10 +2,22 @@ package easy;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.HashSet;
 
 // Problem 5: https://leetcode.com/problems/intersection-of-two-arrays/
 // This is same problem of searching
 public class Intersection1 {
+    // Method 2: Using HashSet
+    // Time and Space comp: O(n) and O(1)
+    public static int[] intersection2(int[] nums1, int[] nums2) {
+        HashSet<Integer> set = new HashSet<>();
+        HashSet<Integer> set2 = new HashSet<>();
+        for (int n : nums1) set.add(n);
+        for (int n : nums2) set2.add(n);
+        set.retainAll(set2);
+        return set.stream().mapToInt(Integer::intValue).toArray();
+    }
+
     public int[] intersection(int[] nums1, int[] nums2) {
         // We've to sort arrays so that we can apply binary search
         Arrays.sort(nums1);

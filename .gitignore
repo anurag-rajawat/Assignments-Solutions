@@ -1,30 +1,39 @@
-### Intellij ###
-# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio, WebStorm and Rider
-# Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
+src/main/resources/plugins/*.jar
+out
 
-# User-specific stuff
-.idea/**/workspace.xml
-.idea/**/tasks.xml
-.idea/**/usage.statistics.xml
-.idea/**/dictionaries
-.idea/**/shelf
+# ---- Sonar
+.sonar
 
-# Generated files
-.idea/**/contentModel.xml
+# ---- IntelliJ IDEA
+*.iws
+*.iml
+*.ipr
+.idea
 
-# Sensitive or high-churn files
-.idea/**/dataSources/
-.idea/**/dataSources.ids
-.idea/**/dataSources.local.xml
-.idea/**/sqlDataSources.xml
-.idea/**/dynamic.xml
-.idea/**/uiDesigner.xml
-.idea/**/dbnavigator.xml
+# ---- Eclipse
+.classpath
+.project
+.settings
 
-# IntelliJ
-out/
+# ---- Maven
+target
 
-### Java ###
-# Compiled class file
-*.class
-untitled104.iml
+# ---- Mac OS X
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+
+# ---- Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Gradle
+.gradle
+classes
+build

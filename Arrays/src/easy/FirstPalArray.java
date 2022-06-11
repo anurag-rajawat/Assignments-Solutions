@@ -2,11 +2,6 @@ package easy;
 
 // https://leetcode.com/problems/find-first-palindromic-string-in-the-array/
 public class FirstPalArray {
-    public static void main(String[] args) {
-        String[] strings = {"cqllrtyhw", "swwisru", "gpzmbders", "wqibjuqvs", "pp", "usewxryy", "ybqfuh", "hqwwqftgyu", "jggmatpk"};
-        System.out.println(firstPalindrome(strings));
-    }
-
     public static String firstPalindrome(String[] words) {
         for (String word : words) {
             if (isPal(word)) return word;

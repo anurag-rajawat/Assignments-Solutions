@@ -4,13 +4,6 @@ import java.util.Arrays;
 
 // Problem 6 - https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
 public class FirstLastPosition {
-
-    public static void main(String[] args) {
-        int[] nums = {5, 7, 7, 8, 8, 10};
-        int target = 8;
-        System.out.println(Arrays.toString(searchRange(nums, target)));
-    }
-
     public static int[] searchRange(int[] nums, int target) {
         int[] ans = {-1, -1};
         int start = binarySearch(nums, target, true);

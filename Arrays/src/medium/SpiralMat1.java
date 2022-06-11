@@ -5,16 +5,7 @@ import java.util.List;
 
 //Problem 1 - https://leetcode.com/problems/spiral-matrix/
 public class SpiralMat1 {
-    public static void main(String[] args) {
-        int[][] a = {
-                {1, 2, 3},
-                {4, 5, 6},
-                {7, 8, 9}
-        };
-        System.out.println(spiralOrder(a));
-    }
-
-    public static List<Integer> spiralOrder(int[][] matrix) {
+    public List<Integer> spiralOrder(int[][] matrix) {
         List<Integer> res = new ArrayList<>();
 //      Edge Case
         if (matrix.length == 0) return res;

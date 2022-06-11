@@ -11,7 +11,7 @@ public class TargetIndices {
      */
 
     //    TC = O(n), SC = O(1)
-    public static List<Integer> targetIndices(int[] nums, int target) {
+    public List<Integer> targetIndices(int[] nums, int target) {
         List<Integer> list = new ArrayList<>();
         int lessThanTarget = 0, equalToTarget = 0;
         for (int num : nums) {

@@ -1,19 +1,8 @@
 package medium;
 
-import java.util.Arrays;
-
 //Problem 2 - https://leetcode.com/problems/spiral-matrix-ii/
-
 public class SpiralMat2 {
-    public static void main(String[] args) {
-        System.out.println(Arrays.deepToString(generateMatrix(1)));
-        System.out.println(Arrays.deepToString(generateMatrix(3)));
-    }
-
-    /*
-    [[1,2,3],[8,9,4],[7,6,5]]
-     */
-    public static int[][] generateMatrix(int n) {
+    public int[][] generateMatrix(int n) {
 //      Edge Case
         if (n == 1) return new int[][]{{1}};
 

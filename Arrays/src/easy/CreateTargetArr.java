@@ -5,7 +5,7 @@ package easy;
 import java.util.ArrayList;
 
 public class CreateTargetArr {
-    public static int[] createTargetArray(int[] nums, int[] index) {
+    public int[] createTargetArray(int[] nums, int[] index) {
         ArrayList<Integer> temp = new ArrayList<>();
 
 //      Adding the elements, according to the specified index.

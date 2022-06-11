@@ -2,12 +2,6 @@ package hard;
 
 // Problem 2 - https://leetcode.com/problems/first-missing-positive/
 public class FirstMissingPos {
-    public static void main(String[] args) {
-//        int[] a = {3, 4,-1,1};
-        int[] a = {7, 8, 9, 11, 12};
-        System.out.println(firstMissingPositive(a));
-    }
-
     // Since the question ask us to do this in O(n) and constant space, so we have to use "Cyclic sort"
     // to sort the given array. And after that we only need to check which element is not at its correct
     // position, if it's then it's our answer.

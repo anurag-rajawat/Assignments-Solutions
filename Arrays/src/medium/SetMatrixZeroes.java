@@ -5,34 +5,6 @@ import java.util.Set;
 
 //Problem 4 - https://leetcode.com/problems/set-matrix-zeroes/
 public class SetMatrixZeroes {
-    public static void main(String[] args) {
-        int[][] a = {
-                {1, 1, 1},
-                {1, 0, 1},
-                {1, 1, 1}
-        };
-
-        int[][] b = {
-                {0, 1, 2, 0},
-                {3, 4, 5, 2},
-                {1, 3, 1, 5}
-        };
-//        setZeroes(a);
-//        setZeroes(b);
-//        setZeroes2(a);
-//        setZeroes2(b);
-        for (int[] row : a) {
-            for (int ele : row) System.out.print(ele + " ");
-            System.out.println();
-        }
-        System.out.println();
-        System.out.println();
-        for (int[] row : b) {
-            for (int ele : row) System.out.print(ele + " ");
-            System.out.println();
-        }
-    }
-
     /**
      * Approach 1: Additional Memory Approach
      * If any cell of the matrix has a zero we can record its row and column number. All the cells of this recorded row and column can be marked zero in the next iteration.
@@ -46,7 +18,7 @@ public class SetMatrixZeroes {
      * So, we use two sets, one for the rows and one for the columns.
      */
 
-    public static void setZeroes(int[][] matrix) {
+    public void setZeroes(int[][] matrix) {
         int totalRows = matrix.length;
         int totalCols = matrix[0].length;
 
@@ -73,7 +45,7 @@ public class SetMatrixZeroes {
         }
     }
 
-    public static void setZeroes2(int[][] matrix) {
+    public void setZeroes2(int[][] matrix) {
         boolean isCol = false;
         int totalRows = matrix.length;
         int totalCols = matrix[0].length;

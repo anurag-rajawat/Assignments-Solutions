@@ -10,6 +10,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Blind-75/Stack/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Blind-75/Two Pointers/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Blind-75/BinarySearch/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data-Structures/linear" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

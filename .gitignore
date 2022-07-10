@@ -9,6 +9,7 @@ out
 *.iml
 *.ipr
 .idea
+**/sonarlint
 
 # ---- Eclipse
 .classpath

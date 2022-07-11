@@ -3,14 +3,6 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/Blind-75/Arrays-&amp;-Hashing/easy/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Blind-75/Arrays-&amp;-Hashing/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Blind-75/Sliding Window/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Blind-75/Stack/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Blind-75/Two Pointers/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Blind-75/BinarySearch/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Data-Structures/linear" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

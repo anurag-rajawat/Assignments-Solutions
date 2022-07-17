@@ -15,8 +15,8 @@
 
 ## Medium
 -[x] `1` [Min Stack](https://leetcode.com/problems/min-stack/) `leetcode`
--[ ] `2` [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/) `leetcode`
--[ ] `3` [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) `leetcode`
+-[x] `2` [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/) `leetcode`
+-[x] `3` [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) `leetcode`
 -[ ] `4` [Decode String](https://leetcode.com/problems/decode-string/) `leetcode`
 -[ ] `5` [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) `leetcode`
 -[ ] `6` [132 Pattern](https://leetcode.com/problems/132-pattern/) `leetcode`
